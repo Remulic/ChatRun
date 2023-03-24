@@ -1,0 +1,39 @@
+{
+    "h5" : {
+        "title" : "ChatRun",
+        "domain" : "aoau.top",
+        "sdkConfigs" : {
+            "maps" : {
+                "qqmap" : {
+                    "key" : "3G3BZ-6DNLP-L3WDC-LV5HL-EPWHS-GAB43"
+                }
+            }
+        },
+        "router" : {
+            "base" : "ChatRun"
+        },
+        "devServer" : {
+            "port" : 2000
+        }
+    },
+    "appid" : "__UNI__DB34059",
+    "name" : "ChatRun",
+    "versionName" : "1.0",
+    "description" : "一款跑步与社交软件",
+    "locale" : "zh-Hans",
+    "mp-weixin" : {
+        "appid" : "wx2e8ba74e4a4f55e1",
+        "permission" : {
+            "scope.userLocation" : {
+                "desc" : "你的位置信息将用于小程序位置接口的效果展示"
+            }
+        },
+        "requiredPrivateInfos" : [ "getLocation", "onLocationChange", "startLocationUpdate" ],
+        "setting" : {
+            "urlCheck" : false,
+            "es6" : true,
+            "postcss" : true,
+            "minified" : false
+        }
+    }
+}

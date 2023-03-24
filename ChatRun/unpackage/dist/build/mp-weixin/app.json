@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/signin/signin",
+    "pages/chatroom/chatroom",
+    "pages/userdetials/userdetials",
+    "pages/userhome/userhome",
+    "pages/search/search",
+    "pages/signup/signup",
+    "pages/index/index",
+    "pages/friendapply/friendapply",
+    "pages/test/test",
+    "pages/friend/friend",
+    "pages/run/run",
+    "pages/dynamic/dynamic",
+    "pages/discuss/discuss"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "onLocationChange",
+    "startLocationUpdate"
+  ],
+  "usingComponents": {}
+}

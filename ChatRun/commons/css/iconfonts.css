@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3776266 */
+  src: url('//at.alicdn.com/t/c/font_3776266_pq3jhv985x.woff2?t=1671351725907') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3776266_pq3jhv985x.woff?t=1671351725907') format('woff'),
+       url('//at.alicdn.com/t/c/font_3776266_pq3jhv985x.ttf?t=1671351725907') format('truetype');
+}
+
+text[class*="icon-"],
+view[class*="icon-"],
+button[class*="icon-"] {
+    font-family: "iconfont";
+    font-size: inherit;
+    font-style: normal;
+}
+.icon-paihang:before {
+  content: "\e750";
+}
+
+.icon-paihangbang:before {
+  content: "\e609";
+}
+
+.icon-huangguan:before {
+  content: "\f2e7";
+}
+
+.icon-jiahao1:before {
+  content: "\e640";
+}
+
+.icon-jiahao2:before {
+  content: "\e603";
+}
+
+.icon-dianzan:before {
+  content: "\e601";
+}
+
+.icon-pinglun:before {
+  content: "\e60f";
+}
+
+.icon-dianzan_kuai:before {
+  content: "\ec8c";
+}
+
+.icon-redu:before {
+  content: "\e6f4";
+}
+
+.icon-yinfu:before {
+  content: "\e771";
+}
+
+.icon-zanting:before {
+  content: "\e87a";
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-sanjiao3:before {
+  content: "\e600";
+}
+
+.icon-checkbox-full:before {
+  content: "\ea6f";
+}
+
+.icon-running-solid-copy:before {
+  content: "\fb2c";
+}
+
+.icon-running-solid:before {
+  content: "\e74d";
+}
+
+.icon-paobu:before {
+  content: "\e673";
+}
+
+.icon-zhuce:before {
+  content: "\e71c";
+}
+
+.icon-jiantou:before {
+  content: "\e662";
+}
+
+.icon-jiahao:before {
+  content: "\e726";
+}
+
+.icon-sousuo:before {
+  content: "\e752";
+}
+
+.icon-yuyin:before {
+  content: "\e687";
+}
+
+.icon-biaoqing:before {
+  content: "\e6df";
+}
+
+.icon-fanhuijiantou:before {
+  content: "\e8b5";
+}
+
+.icon-gengduo:before {
+  content: "\ec1c";
+}
+
+.icon-jiahao_o:before {
+  content: "\eb78";
+}
+
+.icon-xingbie1:before {
+  content: "\fb29";
+}
+
+.icon-xingbie1-copy-copy:before {
+  content: "\fb2b";
+}
